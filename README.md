@@ -8,5 +8,5 @@ python3 main.py
 \
 \
 **Links:**\
-https://www.youtube.com/watch?v=QzqMGX4Qk1A
+https://www.youtube.com/watch?v=QzqMGX4Qk1A \
 https://github.com/hackingthemarkets/gridbot-websockets

@@ -13,7 +13,6 @@ ticker = exchange.fetch_ticker(config.SYMBOL)
 buy_orders = []
 sell_orders = []
 
-# initial_buy_order = exchange.create_market_buy_order(config.SYMBOL, config.POSITION_SIZE * config.NUM_SELL_GRID_LINES)
 
 for i in range(config.NUM_BUY_GRID_LINES):
     price = ticker['bid'] - (config.GRID_SIZE * (i+1))
